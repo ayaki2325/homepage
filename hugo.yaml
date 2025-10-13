@@ -42,3 +42,13 @@ menu:
       url: "https://x.com/ayaki2325"
       params:
         icon: twitter
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      dark: favicon-dark.svg
+      link: /
+      width: 20
+      height: 20
