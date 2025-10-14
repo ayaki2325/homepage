@@ -20,8 +20,8 @@ menu:
       pageRef: /author
       parent: info
       weight: 1
-    - name: お問い合わせ
-      pageRef: /contact
+    - name: お問い合わせ ↗
+      url: https://docs.google.com/forms/d/e/1FAIpQLScP1q4IcZ6uTLICrcrdNbFBTrJaqgHmfbFNairhzmebppd8Pg/viewform?usp=dialog
       parent: info
       weight: 2
     - name: プライバシーポリシー
