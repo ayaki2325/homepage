@@ -17,7 +17,7 @@ title: 'プライバシーポリシー'
 
 Cookieを無効にする方法やGoogleアドセンスに関する詳細は「[広告 – ポリシーと規約 – Google](https://policies.google.com/technologies/ads?gl=jp)」をご確認ください。
 
-また、Backend Engineer Roadは、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。
+また、Software Engineer Roadは、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。
 
 ## アクセス解析ツールについて
 

@@ -1,44 +1,37 @@
-baseURL: https://backend-engineer-road.com/
+baseURL: https://software-engineer-road.com/
 defaultContentLanguage: ja
 languageCode: ja
-title: Backend Engineer Road
+title: Software Engineer Road
 module:
   imports:
     - path: github.com/imfing/hextra
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: Blog
       pageRef: /blog
-      weight: 2
+      weight: 1
     - identifier: info
       name: Info
-      weight: 3
-    - name: 本サイトの運営者
-      pageRef: /author
-      parent: info
-      weight: 1
+      weight: 2
     - name: お問い合わせ ↗
       url: https://docs.google.com/forms/d/e/1FAIpQLScP1q4IcZ6uTLICrcrdNbFBTrJaqgHmfbFNairhzmebppd8Pg/viewform?usp=dialog
       parent: info
-      weight: 2
+      weight: 1
     - name: プライバシーポリシー
       pageRef: /privacy-policy
       parent: info
-      weight: 3
+      weight: 2
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 4
       url: "https://github.com/ayaki2325/homepage"
       params:
         icon: github
     - name: X
-      weight: 6
+      weight: 5
       url: "https://x.com/ayaki2325"
       params:
         icon: twitter
