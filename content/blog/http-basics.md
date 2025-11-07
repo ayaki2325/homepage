@@ -1,7 +1,7 @@
 ---
 title: '要点だけ学ぶHTTP基礎'
 date: '2025-10-23T00:00:00+09:00'
-draft: false
+draft: true
 authors:
   - name: あやき
     link: https://x.com/ayaki2325
